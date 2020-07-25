@@ -1,0 +1,26 @@
+h3{
+  text-align: center;
+}
+body{
+  /* width: 100%; */
+  background-color:#e3dfc8;
+}
+
+.sub-heading{
+  background-color: #f5f1da;
+  text-align: center;
+}
+.logo{
+  background-color: #f5f1da;
+  text-align: center;
+}
+.petrol{
+  width:100%;
+}
+.nav_pic{
+  width:15%;
+  margin: 10px 50px 20px;
+}
+pictures{
+  margin: 5% 5% 5% 5%;
+}
